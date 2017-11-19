@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-transformer-local-cms",
+  "version": "1.0.0",
+  "description": "Local cms",
+  "scripts": {
+    "build": "babel src --out-dir . --ignore __tests__",
+    "watch": "babel -w src --out-dir . --ignore __tests__",
+    "prepublish": "cross-env NODE_ENV=production npm run build"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "json"
+  ],
+  "author": "Axel Hernández <axelhzf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "bluebird": "^3.5.0",
+    "remark": "^8.0.0",
+    "remark-html": "^6.0.1",
+    "remark-preset-lint-recommended": "^3.0.1",
+    "vfile-reporter": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "cross-env": "^5.0.5"
+  }
+}

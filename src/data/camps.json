@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Campamento de una noche :D",
+    "excerpt": "Entrada el primer día a las 9:00 de la mañana y salida el último día a las 15:00. Todas las actividades serán adaptadas y necesidades del centro escolar.",
+    "price": "55€/niño",
+    "mainImage": "http://campers.crunchpress.com/wp-content/uploads/2016/05/campers16-525x300.jpg",
+    "body": "## This the body"
+  },
+  {
+    "title": "Campamento de dos noches",
+    "excerpt": "Entrada el primer día a las 9:00 de la mañana y salida el último día a las 15:00. Todas las actividades serán adaptadas y necesidades del centro escolar.",
+    "price": "55€/niño",
+    "mainImage": "http://campers.crunchpress.com/wp-content/uploads/2016/05/campers6-525x300.jpg",
+    "body": "This is the body"
+  },
+  {
+    "title": "Campamento de tres noches",
+    "excerpt": "Entrada el primer día a las 9:00 de la mañana y salida el último día a las 15:00. Todas las actividades serán adaptadas y necesidades del centro escolar.",
+    "price": "55€/niño",
+    "mainImage": "http://campers.crunchpress.com/wp-content/uploads/2016/05/campers17-525x300.jpg",
+    "body": "This is the body"
+  },
+  {
+    "title": "Campamento de cuatro noches",
+    "excerpt": "Entrada el primer día a las 9:00 de la mañana y salida el último día a las 15:00. Todas las actividades serán adaptadas y necesidades del centro escolar.",
+    "price": "55€/niño",
+    "mainImage": "http://campers.crunchpress.com/wp-content/uploads/2016/05/campers18-525x300.jpg",
+    "body": "This is the body"
+  }
+]

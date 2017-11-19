@@ -1,0 +1,38 @@
+.trips {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+}
+
+.trip {
+
+}
+
+.trip-image {
+    display: block;
+    height: 0;
+    padding-top: 56.25%;
+    background-size: cover;
+}
+
+.trip-content {
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 32px 20px;
+    width: 90%;
+    position: relative;
+    top: -20px;
+    left: 10px;
+}
+
+.trip-title {
+    font: 400 20px 'Montserrat', sans-serif;
+    color: #222;
+    margin-bottom: 18px;
+}
+
+.trip-excerpt {
+    font: 400 14px/24px 'Open Sans', sans-serif;
+    color: #777;
+    margin-bottom: 15px;
+}
